@@ -1,0 +1,17 @@
+{
+    "name": "motniemtin/vagexauto",
+    "description": "Công cụ thử nghiệm hack vagex",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lam Nguyen",
+            "email": "motniemtin@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {
+            "Motniemtin\\vagexAuto\\": "src/"
+        }
+    }
+}
